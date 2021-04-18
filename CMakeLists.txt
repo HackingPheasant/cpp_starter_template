@@ -1,5 +1,5 @@
 # Project specific settings
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.16...3.20)
 project(cpp_starter_template
         VERSION 0.1.0 
         DESCRIPTION "C++ Starter Template. With some examples"
