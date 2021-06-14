@@ -15,8 +15,7 @@ C++ Starter Template. With some examples.
     cmake --install --preset <name> # CMake 3.15+ only
     
     ```
-Optional.
-    Test
+4. Test (Optional)
     ```bash
     ctest --preset <name>
     ```
